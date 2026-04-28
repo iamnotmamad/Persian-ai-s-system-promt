@@ -54,7 +54,7 @@ text
 | آتنا (Atena) | gemma3 | ۱۴۰۵/۰۲/۰۵ | `atena.txt` |
 | بله‌ای‌آی (Bale AI) | gpt4-mini "احتمالا" | ۱۴۰۵/۰۲/۰۵ | `bale-ai.txt` |
 | برتینا (Bertina) | gpt oss 20b | ۱۴۰۵/۰۲/۰۵ | `bertina.txt` |
-| بوف (Boof) | GPT-4o-mini "احتمالا (براساس رفتار ها تشخیص داده شد)| ۱۴۰۵/۰۲/۰۵ | `boof.txt` |
+| بوف (Boof) | GPT-4o-mini، qwen , z ai | ۱۴۰۵/۰۲/۰۵ | `boof.txt` |
 | ویرا (Vira) | نا معلوم | ۱۴۰۵/۰۲/۰۵ | `vira.txt` |
 | زیگ‌ای‌پی (Zigap) | نا معلوم | ۱۴۰۵/۰۲/۰۵ | `zigap.txt` |
 | رخش (Rakhsh) | gpt3 | – | `rakhsh-ai/` |
